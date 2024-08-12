@@ -1,0 +1,584 @@
+.cv-container1 {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.cv-navbar1 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cv-container2 {
+  width: 979px;
+  height: 2424px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.cv-text101 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+  text-decoration: underline;
+}
+.cv-text102 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text103 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text104 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text105 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text106 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text107 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text108 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text109 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text110 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text111 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text112 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text113 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text114 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+  text-decoration: underline;
+}
+.cv-text115 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text116 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text117 {
+  font-size: 25px;
+  font-style: normal;
+  font-family: "Times New Roman";
+  font-weight: 700;
+}
+.cv-text118 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text119 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text120 {
+  font-size: 25px;
+  font-style: normal;
+  font-family: "Times New Roman";
+  font-weight: 700;
+}
+.cv-text121 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text122 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text123 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text124 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text125 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text126 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text127 {
+  font-size: 25px;
+  font-style: normal;
+  font-family: "Times New Roman";
+  font-weight: 700;
+}
+.cv-text128 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text129 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text130 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text131 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text132 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+  text-decoration: underline;
+}
+.cv-text133 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text134 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text135 {
+  font-size: 25px;
+  font-style: normal;
+  font-family: "Times New Roman";
+  font-weight: 700;
+}
+.cv-text136 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text137 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text138 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text139 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text140 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text141 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text142 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text143 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text144 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text145 {
+  font-size: 25px;
+  font-style: normal;
+  font-family: "Times New Roman";
+  font-weight: 700;
+}
+.cv-text146 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text147 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text148 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text149 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text150 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text151 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text152 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text153 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text154 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text155 {
+  font-size: 25px;
+  font-style: normal;
+  font-family: "Times New Roman";
+  font-weight: 700;
+}
+.cv-text156 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text157 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text158 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text159 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text160 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text161 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text162 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text163 {
+  font-size: 25px;
+  font-style: normal;
+  font-family: "Times New Roman";
+  font-weight: 700;
+}
+.cv-text164 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text165 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text166 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text167 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text168 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text169 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text170 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text171 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text172 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+  text-decoration: underline;
+}
+.cv-text173 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text174 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text175 {
+  font-size: 25px;
+  font-style: normal;
+  font-family: "Times New Roman";
+  font-weight: 700;
+}
+.cv-text176 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text177 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text178 {
+  font-size: 25px;
+  font-style: normal;
+  font-family: "Times New Roman";
+  font-weight: 700;
+}
+.cv-text179 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text180 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text181 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text182 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text183 {
+  font-size: 25px;
+  font-style: normal;
+  font-family: "Times New Roman";
+  font-weight: 700;
+}
+.cv-text184 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text185 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text186 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text187 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text188 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text189 {
+  font-size: 25px;
+  font-style: normal;
+  font-family: "Times New Roman";
+  font-weight: 700;
+}
+.cv-text190 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text191 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text192 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text193 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text194 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text195 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text196 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text197 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text198 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text199 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text200 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text201 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text202 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text203 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text204 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text205 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text206 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text207 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text208 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text209 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text210 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text211 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text212 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text213 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text214 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text215 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text216 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text217 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text218 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text219 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text220 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text221 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text222 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text223 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text224 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text225 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text226 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text227 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text228 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text229 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text230 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text231 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-text232 {
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+.cv-footer11 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
